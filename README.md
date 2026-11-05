@@ -5,3 +5,4 @@ Content:
 -Metropolis algorithm applied to Issing model of magnetic spins slides-first MC sims I ever did and the ones I understand the best. 
 -Basic MC simulation.py code. Will be expanded. 
 -Notes on finance and market concepts for beginners (me) 
+Will be reuploading stuff as I update and expand notes and code
